@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1497931144 source:/home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/main.cpp
+	<iostream>
+	"Instruccion.h"
+
+1497931685 /home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/include/Instruccion.h
+	<iostream>
+	<vector>
+	<string>
+	"Funtion.h"
+
+1497655655 /home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/include/AuxFuntions.h
+	<iostream>
+	<string>
+	<vector>
+	"Instruccion.h"
+
+1497655661 source:/home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/src/AuxFuntions.cpp
+	"AuxFuntions.h"
+
+1497934971 source:/home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/src/Instruccion.cpp
+	"Instruccion.h"
+
+1497934640 /home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/include/Funtion.h
+	<sstream>
+	<iostream>
+	<vector>
+	<string>
+	"Registro.h"
+
+1497934850 source:/home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/src/Funtion.cpp
+	"Funtion.h"
+
+1497933344 /home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/include/Registro.h
+	<iostream>
+	<string>
+
+1497934755 source:/home/juanpablo/ciencia-d-l-computacion/arqui-computadores/me/src/Registro.cpp
+	"Registro.h"
+
+1498543008 source:c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\main.cpp
+	<iostream>
+	"Instruccion.h"
+	"Funtion.h"
+	<string.h>
+	<stdlib.h>
+	<bitset>
+	<math.h>
+
+1498533308 c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\include\instruccion.h
+	<iostream>
+	<vector>
+	<string>
+	"Funtion.h"
+
+1498425431 c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\include\funtion.h
+	<sstream>
+	<iostream>
+	<vector>
+	<string>
+	"Registro.h"
+	"Instruccion.h"
+
+1498371634 c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\include\registro.h
+	<iostream>
+	<string>
+	<vector>
+	"Funtion.h"
+
+1498371634 source:c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\src\funtion.cpp
+	"Funtion.h"
+
+1498501540 source:c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\src\instruccion.cpp
+	"Instruccion.h"
+	<string.h>
+
+1498371634 source:c:\users\estilos\desktop\trabajos actuales\arquitecturacomp-master\me\src\registro.cpp
+	"Registro.h"
+
